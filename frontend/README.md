@@ -1,4 +1,4 @@
-# Alaska Small Business Development Center → Self-service Landing Page
+# Alaska Small Business Development Center
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 

@@ -1,10 +1,10 @@
 {
-  "name": "aksbdc",
-  "version": "0.0.1",
+  "name": "self-service-landing-page-frontend",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {
